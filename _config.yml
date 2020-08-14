@@ -1,0 +1,11 @@
+# basic options
+title: CSE2020 Music Programming
+author: Doh Kyung-Goo
+email: doh@hanyang.ac.kr
+description: Division of Computer Science, Hanyang University ERICA
+twitter_username:
+github_username: Doggzone
+
+# Build settings
+markdown: kramdown
+theme: minima
